@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+	<id>123241-35445-2323525225</id>
+	<type>freerep</type>
+	<attributes>
+		<customer>
+			<id>424829141325</id>
+			<name>John Smith</name>
+		</customer>
+	</attributes>
+	<lineitems>
+		<item>
+			<id>90242433232</id>
+			<name>Jeans</name>
+		</item>
+		<item>
+			<id>8246523721</id>
+			<name>Polo white shirt</name>
+		</item>
+	</lineitems>
+</order>
