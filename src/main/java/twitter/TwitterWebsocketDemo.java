@@ -9,7 +9,8 @@ import org.apache.camel.impl.DefaultCamelContext;
 public final class TwitterWebsocketDemo extends RouteBuilder {
 	
 	private final String searchTerm;
-	
+
+	//test tokens - dummy
     private final String consumerKey = "mAdmAPcmcQoDrWVYFdmOD4UY9";
     private final String consumerSecret = "somjH1B11YymLXSib6IwwZcvSMGEKdoRtGglb0UqIR9fQy6UgC";
     private final String accessToken = "12291092-z7G2mPpBPRhnHVFPsIQu5vGgdTt8wslfO2rmAL1tC";
